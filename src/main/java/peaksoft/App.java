@@ -1,7 +1,5 @@
 package peaksoft;
 
-import org.postgresql.copy.CopyOut;
-import peaksoft.config.HibernateConfig;
 import peaksoft.enams.Status;
 import peaksoft.model.Address;
 import peaksoft.model.Country;
